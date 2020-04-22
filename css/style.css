@@ -4145,10 +4145,9 @@ ul.list-v {
   display: none;
   position: absolute;
   background: #fff;
-  box-shadow: 0 4px 8px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 0 1px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1);
   margin-top: -6px;
   border-radius: 4px;
-  border: 1px solid #e7e7e7;
   padding: 8px 0;
 }
 ul.list-v >hr {
@@ -4184,7 +4183,7 @@ ul.list-v >li>a {
   -webkit-transition: all 0.28s ease;
   -o-transition: all 0.28s ease;
   display: block;
-  color: #555;
+  color: #666;
   font-size: 0.875rem;
   font-weight: bold;
   line-height: 33px;
@@ -4351,7 +4350,7 @@ ul.list-v >li>a.active {
 }
 @media screen and (max-width: 500px) {
   .list-v li {
-    max-width: 264px;
+    max-width: 270px;
   }
 }
 .l_main .prev-next {
@@ -5276,7 +5275,7 @@ ul.list-v >li>a.active {
 }
 @media screen and (max-width: 768px) {
   .l_side .toc-wrapper {
-    z-index: 100;
+    z-index: 1001;
     position: fixed;
     max-height: 1000px;
     width: auto;
