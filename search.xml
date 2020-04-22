@@ -29,11 +29,11 @@
     
     
     <entry>
-      <title>Gitblit</title>
-      <link href="/app/gitblit/"/>
-      <url>/app/gitblit/</url>
+      <title>JDK</title>
+      <link href="/app/java/"/>
+      <url>/app/java/</url>
       
-        <content type="html"><![CDATA[<p>官网: <a href="https://github.com/gitblit/gitblit" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/gitblit/gitblit</a></p>]]></content>
+        <content type="html"><![CDATA[<p>官网: <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank" rel="external nofollow noopener noreferrer">https://www.oracle.com/java/technologies/javase-downloads.html</a></p>]]></content>
       
       
       <categories>
@@ -48,11 +48,11 @@
     
     
     <entry>
-      <title>JDK</title>
-      <link href="/app/java/"/>
-      <url>/app/java/</url>
+      <title>Gitblit</title>
+      <link href="/app/gitblit/"/>
+      <url>/app/gitblit/</url>
       
-        <content type="html"><![CDATA[<p>官网: <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank" rel="external nofollow noopener noreferrer">https://www.oracle.com/java/technologies/javase-downloads.html</a></p>]]></content>
+        <content type="html"><![CDATA[<p>官网: <a href="https://github.com/gitblit/gitblit" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/gitblit/gitblit</a></p>]]></content>
       
       
       <categories>

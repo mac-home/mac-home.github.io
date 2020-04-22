@@ -44,30 +44,6 @@
   </entry>
   
   <entry>
-    <title>Gitblit</title>
-    <link href="https://machome.js.org/app/gitblit/"/>
-    <id>https://machome.js.org/app/gitblit/</id>
-    <published>2020-03-12T06:47:39.216Z</published>
-    <updated>2020-04-22T16:15:57.296Z</updated>
-    
-    <content type="html"><![CDATA[<p>官网: <a href="https://github.com/gitblit/gitblit" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/gitblit/gitblit</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;官网: &lt;a href=&quot;https://github.com/gitblit/gitblit&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;https://github.com/gitblit/g
-      
-    
-    </summary>
-    
-    
-      <category term="app" scheme="https://machome.js.org/app/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>JDK</title>
     <link href="https://machome.js.org/app/java/"/>
     <id>https://machome.js.org/app/java/</id>
@@ -81,6 +57,30 @@
       
       
         &lt;p&gt;官网: &lt;a href=&quot;https://www.oracle.com/java/technologies/javase-downloads.html&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="app" scheme="https://machome.js.org/app/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gitblit</title>
+    <link href="https://machome.js.org/app/gitblit/"/>
+    <id>https://machome.js.org/app/gitblit/</id>
+    <published>2020-03-12T06:47:39.216Z</published>
+    <updated>2020-04-22T16:15:57.296Z</updated>
+    
+    <content type="html"><![CDATA[<p>官网: <a href="https://github.com/gitblit/gitblit" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/gitblit/gitblit</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;官网: &lt;a href=&quot;https://github.com/gitblit/gitblit&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;https://github.com/gitblit/g
       
     
     </summary>
