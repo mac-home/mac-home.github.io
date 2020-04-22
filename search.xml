@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Atom</title>
+      <link href="/app/atom/"/>
+      <url>/app/atom/</url>
+      
+        <content type="html"><![CDATA[<p>官网: <a href="https://atom.io/" target="_blank" rel="external nofollow noopener noreferrer">atom.io</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> app </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编辑器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Gitblit</title>
+      <link href="/app/gitblit/"/>
+      <url>/app/gitblit/</url>
+      
+        <content type="html"><![CDATA[<p>官网: <a href="https://github.com/gitblit/gitblit" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/gitblit/gitblit</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> app </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JDK</title>
+      <link href="/app/java/"/>
+      <url>/app/java/</url>
+      
+        <content type="html"><![CDATA[<p>官网: <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank" rel="external nofollow noopener noreferrer">https://www.oracle.com/java/technologies/javase-downloads.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> app </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>macOS 常用终端命令</title>
+      <link href="/https://xaoxuu.com/notes/dev/mac-terminal/"/>
+      <url>/https://xaoxuu.com/notes/dev/mac-terminal/</url>
+      
+        <content type="html"><![CDATA[<p>本文包含常用命令，如：显示隐藏文件、提示 “安装包已损坏” 的解决办法、外置磁盘路径等。</p><a id="more"></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> article </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 终端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
